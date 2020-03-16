@@ -1,7 +1,10 @@
 # Cup with Lid
 
-This is a simple cup with a friction-fit lid.  The defaults:
+This is a simple cup with a friction-fit lid.  I made this to fit crayon-pencils for my daughter.  Depending on the accuracy of the print, you may need to sand the lip on the cup or the inside rim of the lid.  I have found that adding parafin wax around both areas helps lubricate the plastic and makes the lid easy to remove.
 
+If you would like to add a letter (or other text) to the top of the lid, change `print_text = false;` to `print_text = true;` and adjust the text you would like to add.  
+
+The defaults:
 ```
 // make smooth circles
 fn=128;
