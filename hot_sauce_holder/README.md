@@ -28,13 +28,13 @@ holder_arm_thickness=4;
 
 // These screw dimenions fit standard pocket hole screws
 // Diameter of the screw you plan to use
-screw_diam=4;
+screw_diam = 4;
 
 // Diameter of screw-head
-screw_head=9;
+screw_head = 9;
 
 // Screw-head height (deepness for screw-head hole)
-screw_head_h=3;
+screw_head_h = 3;
 
 // The depth of the platform that holds the hot sauce
 stand_width = 50;
