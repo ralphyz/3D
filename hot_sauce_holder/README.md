@@ -46,5 +46,5 @@ stand_thickness = 3;
 fn=128;
 ```
 
-![cup with a lid](../img/hot_sauce_holder_small.png)
+![hot_sauce_holder](../img/hot_sauce_holder_small.png)
 
