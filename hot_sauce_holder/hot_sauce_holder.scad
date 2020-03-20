@@ -1,3 +1,9 @@
+/*
+Created By: RalphyZ
+Source: https://github.com/ralphyz/3D
+License: Apache License 2.0
+License Link: https://github.com/ralphyz/3D/blob/master/LICENSE
+*/
 
 // The width of the entire bracket
 bracket_width = 55;
