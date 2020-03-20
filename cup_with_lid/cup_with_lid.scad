@@ -58,7 +58,7 @@ module cup(position=[0, inner_diameter+thickness*4, 0])
         difference()
         {
             cylinder(d=inner_diameter+thickness*2, h=thickness*3, $fn=fn);
-            cylinder(d=inner_diameter+thickness+0.3, h=thickness*3, $fn=fn);
+            cylinder(d=inner_diameter+thickness+0.6, h=thickness*3, $fn=fn);
         }
         
         if(air_cup)
