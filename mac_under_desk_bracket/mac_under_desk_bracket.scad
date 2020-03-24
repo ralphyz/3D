@@ -32,7 +32,7 @@ end_stop_thickness = 3;
 cable_diameter = 5.5;
 
 // how thick is the clip?
-cable_clip_thickness = 2;
+cable_clip_thickness = 4;
 
 // how wide is the clip?
 cable_clip_width = 6;
@@ -199,5 +199,5 @@ module cable_clip(position=[0,0,0], spin=0)
     }
 }
 
-bracket(side=LEFT_BRACKET, position=[0, 0, 0], spin=[90,0,0], clip=false);
-bracket(side=RIGHT_BRACKET, position=[0, bracket_height, bracket_width - lip_width+MINI_SIZE], spin=[270,0,0], clip=false);
+bracket(side=LEFT_BRACKET, position=[0, 0, 0], spin=[90,0,0], clip=true);
+bracket(side=RIGHT_BRACKET, position=[0, bracket_height, bracket_width - lip_width+MINI_SIZE], spin=[270,0,0], clip=true);
