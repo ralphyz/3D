@@ -90,5 +90,4 @@ fn=128;
 | Print ETA | 23h 24min |
 | Material Cost | 202g |
 
-![dewalt_dcd991_wall_holder](../img/dewalt_dcd991_wall_holde_small.png)
-
+![dewalt_dcd991_wall_holder](../img/dewalt_dcd991_wall_holder_small.png)
