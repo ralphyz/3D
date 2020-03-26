@@ -11,7 +11,6 @@ fn = 128;
 
 // intersection keeps only the area where the items overlap
 // create a hexagon
-
 intersection()
 {
     cube([diameter, diameter, thickness], center=true);
@@ -35,10 +34,23 @@ difference()
 // think of it like shrinkwrap
 hull()
 {
-    translate([diameter, diameter, 0])cylinder(d=thickness, h=thickness, $fn=fn);
-    translate([diameter*2, diameter, 0])cylinder(d=thickness, h=thickness, $fn=fn);
-    translate([diameter*2, diameter*2, 0])cylinder(d=thickness, h=thickness, $fn=fn);
-    translate([diameter, diameter*2, 0])cylinder(d=thickness, h=thickness, $fn=fn);
+    //add color to objects.  Objects inside another object may not
+    //show their color.
+    color("red")
+    translate([diameter, diameter, 0])
+    cylinder(d=thickness, h=thickness, $fn=fn);
+    
+    color("yellow")
+    translate([diameter*2, diameter, 0])
+    cylinder(d=thickness, h=thickness, $fn=fn);
+    
+    color("green")
+    translate([diameter*2, diameter*2, 0])
+    cylinder(d=thickness, h=thickness, $fn=fn);
+    
+    color("purple")
+    translate([diameter, diameter*2, 0])
+    cylinder(d=thickness, h=thickness, $fn=fn);
 }
 
 //try wrapping the code above in hull, and you will get a duck foot :)
