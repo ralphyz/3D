@@ -13,6 +13,7 @@ fn = 128;
 //if statements
 if(thickness <=2)
 {
+    // echo statements print things to the console - good for debugging
     echo("Thickness is &lt;= 2!");
 }
 else
@@ -43,11 +44,12 @@ for(i=[1:5])
 
 // for loop with let
 // let creates variables that are applicable for that iteration only
-for (i = [10:50])
+
+for (i = [10:20])
 {
-    let (angle = i*360/20, r= i*2, distance = r*5)
+    let (angle = i*360/20, r= i*1.5, distance = r*4)
     {
-        rotate(angle, [2, 2, 2])
+        rotate(angle, [0, 0, 1])
         translate([0, distance, 0])
         sphere(r = r, $fn=fn);
     }

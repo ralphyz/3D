@@ -34,8 +34,8 @@ difference()
 // think of it like shrinkwrap
 hull()
 {
-    //add color to objects.  Objects inside another object may not
-    //show their color.
+    // add color to objects.  Objects inside another object may not
+    // show their color.  This is good for debugging
     color("red")
     translate([diameter, diameter, 0])
     cylinder(d=thickness, h=thickness, $fn=fn);
