@@ -1,6 +1,6 @@
 # Mac Under Desk Bracket
 
-This is a two piece bracket to be installed under a desk.  There is the option to put in a back stop, or not.  If you would like a "longer" bracket, print two and adjust the length.  One with the stop, one without.  There is an option for a cable clip.  I put in a clip that fit my USBS cable, but you can adjust that size too.  
+This is a two piece bracket to be installed under a desk.  There is the option to put in a back stop, or not.  If you would like a "longer" bracket, print two and adjust the length.  One with the stop, one without.  There is an option for a cable clip.  I put in a clip that fit my USB cable, but you can adjust that size too.  
 
 
 The defaults:
