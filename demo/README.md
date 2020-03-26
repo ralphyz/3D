@@ -10,6 +10,7 @@ This is a quick introduction to OpenSCAD: a programmatic way to generate solid 3
  - OpenSCAD Intro: Hello, World!
  - Basic Shapes
  - Intermediate Operations
+ - Advanced Techniques
  - Q&A
 
 ### My Setup
