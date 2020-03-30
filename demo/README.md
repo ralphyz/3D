@@ -38,6 +38,7 @@ Ok, so first CAD then export to STL.  Now I can print from an STL, right?  Well,
 * [Download](https://www.openscad.org/downloads.html) OpenSCAD
 * [Documentation](https://www.openscad.org/documentation.html)
 * [OpenSCAD Forum](http://forum.openscad.org/)
+* [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 ### Resources
 * [Thingiverse](https://www.thingiverse.com/) is a universe of things. Download files and build them with your lasercutter, 3D printer, or CNC
