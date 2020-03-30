@@ -17,6 +17,12 @@ This is a quick introduction to OpenSCAD: a programmatic way to generate solid 3
  - MacBook Pro
  - Qidi 3D X-Plus Printer
  - Qidi-Print Slicing Software
+ 
+ ### 3D Printing Tools
+ - [Small Pliers](https://amzn.to/2Uvyluu)
+ - [Glue Sticks](https://amzn.to/2UJINxj)
+ - [Wet Sandpaper](https://amzn.to/2QWYpMF)
+ - [Thumb Scraper](https://amzn.to/3bFUI5R)
 
 ### 3D Printing Intro
 To generate a 3D model for printing, a design is first created in a CAD program.  The design is exported as a stereolithographic file format, known as STL.  This exported file format is common to CAD programs like AutoCAD, Blender, MeshLab, and OpenSCAD.  STL is an interpretation of the geometry of the object.  Because of that, most programs cannot work with STL files like they can (their own) CAD files.  Basic transformations (scale, rotate, etc.) are possible, but not editing the individual components.  Think about STL like a lego object that has been superglied together.  You see the shape and can add on to it, but you cannot "edit" individual components.  
@@ -30,4 +36,10 @@ Ok, so first CAD then export to STL.  Now I can print from an STL, right?  Well,
 * [Download](https://www.openscad.org/downloads.html) OpenSCAD
 * [Documentation](https://www.openscad.org/documentation.html)
 * [OpenSCAD Forum](http://forum.openscad.org/)
+
+### Resources
+* [Thingiverse](https://www.thingiverse.com/) is a universe of things. Download files and build them with your lasercutter, 3D printer, or CNC
+* [3D Geeks](https://www.3dgeeks.app/) - Browse Thingiverse in a more intuitive and modern way 
+* [OctoPrint](https://octoprint.org/) - The snappy web interface for your 3D printer
+* [Astroprint](https://www.astroprint.com/) - The Ultimate Cloud 3D Printing Management Operating System
 
