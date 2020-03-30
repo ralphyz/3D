@@ -2,11 +2,13 @@
 
 This is a quick introduction to OpenSCAD: a programmatic way to generate solid 3D models.  The intention is to introduce you to 3D Printing, and how I design prints using OpenSCAD!
 
-# Topics
+# Lightning Talk Topics
 
  - My Setup
+ - 3D Printing Tools
  - 3D Printing Intro
  - OpenSCAD Quick Links
+ - Resources
  - OpenSCAD Intro: Hello, World!
  - Basic Shapes
  - Intermediate Operations
