@@ -4,15 +4,15 @@ This is a quick introduction to OpenSCAD: a programmatic way to generate solid 3
 
 # Lightning Talk Topics
 
- - My Setup
- - 3D Printing Tools
- - 3D Printing Intro
- - OpenSCAD Quick Links
- - Resources
- - OpenSCAD Intro: Hello, World!
- - Basic Shapes
- - Intermediate Operations
- - Advanced Techniques
+ - [My Setup](#my-setup)
+ - [3D Printing Tools](#3d-printing-tools)
+ - [3D Printing Intro](#3d-printing-intro)
+ - [OpenSCAD Quick Links](#openscad-quick-links)
+ - [Resources](#resources)
+ - [OpenSCAD Intro: Hello, World!](/demo/01_HelloWorld.scad)
+ - [Basic Shapes](/demo/02_shapes.scad)
+ - [Intermediate Operations](/demo/03_intermediate.scad)
+ - [Advanced Techniques](/demo/04_advanced.scad)
  - Q&A
 
 ### My Setup
