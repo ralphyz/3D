@@ -82,7 +82,7 @@ screw_head=9;
 // Screw-head height (deepness for screw-head hole)
 screw_head_h=3;
 
-// The depth of the platform that holds the hot sauce
+// The width of the platform
 stand_width = 50;
 
 // The thickness of this stand
